@@ -89,3 +89,14 @@ This implementation demonstrates the power of Java's Reflection API, which allow
 - Inject dependencies dynamically, even if the fields are ```private``` or declared as interfaces
 
 This level of introspection and control makes it possible to build lightweight dependency injection frameworks like this one, without relying on external libraries. Reflection enables a flexible and powerful foundation for dynamic object creation, configuration, and wiring — essential concepts behind larger frameworks like Spring.
+
+---
+
+## 👨‍💻 Author
+
+This project was developed by **Miguel Pezzini Kühr** as a learning exercise to explore and apply Java's Reflection API and build a simple dependency injection framework from scratch.
+
+Parts of the `BeanFactory` implementation were inspired by examples from the official Java blog:  
+🔗 [dev.java](https://dev.java)
+
+Feel free to explore, fork, or contribute to this project!
